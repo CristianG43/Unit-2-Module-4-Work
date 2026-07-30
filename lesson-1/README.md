@@ -10,4 +10,4 @@ Your not gonna be writing an application this time, now you will test the applic
     - [ ] `destinations` function is testing for valid and invalid options.
     - [ ] `adventure` function is testing for valid and invalid options.
     - [ ] You should have 4 test cases in total.
-- [ ] You test the main file using Pytest.
+- [ ] You test the main file using Pytest.87IU 
